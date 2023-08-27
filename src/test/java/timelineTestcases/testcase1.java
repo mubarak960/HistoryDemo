@@ -10,7 +10,6 @@ public class testcase1 {
 	 int num3 = 3; 
 	 int num4 = 4; 
 	 int num5 = 5;
-	 int num6 = 6;
 		
 	}
 
